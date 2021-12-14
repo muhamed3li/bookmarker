@@ -1,0 +1,36 @@
+.bg{
+    background-color: #eee;
+}
+
+
+
+
+
+
+
+/* Media Query */
+
+/* medium screen */
+
+@media (min-width:992px) and (max-width:1199px) 
+{
+    
+}
+
+/* small screen */
+
+@media (min-width:768px) and (max-width:991px)
+{
+     
+
+}
+
+/* smart phone and tablets */
+
+@media (max-width:767px) 
+{
+       
+}
+
+
+
